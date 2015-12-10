@@ -1,0 +1,19 @@
+body{
+    font-size:0;
+}
+#bg{
+    width: 100%;
+    height: auto;    
+}
+a{
+    display: block;
+    height: 63vw;
+    left: 29vw;
+    position: absolute;
+    top: 57vw;
+    width: 41%;
+}
+html,body{
+    margin:0;
+    padding:0;
+}
